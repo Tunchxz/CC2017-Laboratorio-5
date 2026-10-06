@@ -1,0 +1,15 @@
+geopandas==1.2.0
+ipykernel==7.4.0
+jupyter==1.1.1
+mapclassify==2.11.0
+matplotlib==3.11.2
+matplotlib-scalebar==0.9.0
+nbconvert==7.17.1
+networkx==3.7
+numpy==2.5.3
+osmium==4.3.1
+osmnx==2.1.1
+pandas==3.0.6
+pyproj==3.8.0
+requests==2.34.2
+shapely==2.1.2

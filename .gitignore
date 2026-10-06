@@ -1,0 +1,9 @@
+# Entorno
+.venv/
+
+# Datos autogenerados
+*.osm.pbf
+*.osm
+*.pbf
+osm/
+cache/
